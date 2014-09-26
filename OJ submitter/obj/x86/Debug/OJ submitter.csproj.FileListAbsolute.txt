@@ -1,0 +1,6 @@
+G:\Laboratory\c# Lab\OJ submitter\OJ submitter\bin\Debug\OJ submitter.exe
+G:\Laboratory\c# Lab\OJ submitter\OJ submitter\bin\Debug\OJ submitter.pdb
+G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ_submitter.Properties.Resources.resources
+G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ submitter.csproj.GenerateResource.Cache
+G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ submitter.exe
+G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ submitter.pdb

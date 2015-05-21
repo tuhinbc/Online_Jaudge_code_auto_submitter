@@ -4,3 +4,5 @@ G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ_submitter.Proper
 G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ submitter.csproj.GenerateResource.Cache
 G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ submitter.exe
 G:\Laboratory\c# Lab\OJ submitter\OJ submitter\obj\x86\Debug\OJ submitter.pdb
+D:\tuhin\New folder (3)\Online_Jaudge_code_auto_submitter\OJ submitter\obj\x86\Debug\OJ submitter.exe
+D:\tuhin\New folder (3)\Online_Jaudge_code_auto_submitter\OJ submitter\obj\x86\Debug\OJ submitter.pdb
